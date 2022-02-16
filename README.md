@@ -1,6 +1,18 @@
-# Fizzbuzz
+# The Fizzbuzz Problem
 
-an elixir solution for a classic test: http://wiki.c2.com/?FizzBuzzTest
+An elixir solution for a classic test: http://wiki.c2.com/?FizzBuzzTest
+*with no conditional logic
+
+"Write a function that takes three arguments. If the first two are zero,
+return “FizzBuzz.” If the first is zero, return “Fizz.” If the second is zero,
+return “Buzz.” Otherwise return the third argument.
+The operator rem(a, b) returns the remainder after dividing a by b. Write a
+function that takes a single integer (n) and calls the function in the previ-
+ous exercise, passing it rem(n,3), rem(n,5), and n. Call it seven times with
+the arguments 10, 11, 12, and so on. You should get “Buzz, 11, Fizz, 13,
+14, FizzBuzz, 16"
+
+
 
 ## Installation
 
