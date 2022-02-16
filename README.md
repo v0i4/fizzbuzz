@@ -1,7 +1,6 @@
 # The Fizzbuzz Problem
 
-An elixir solution for a classic test: http://wiki.c2.com/?FizzBuzzTest
-*with no conditional logic
+An elixir solution(with no conditional logic) for a classic test: http://wiki.c2.com/?FizzBuzzTest
 
 "Write a function that takes three arguments. If the first two are zero,
 return “FizzBuzz.” If the first is zero, return “Fizz.” If the second is zero,
