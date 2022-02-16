@@ -12,10 +12,7 @@ the arguments 10, 11, 12, and so on. You should get “Buzz, 11, Fizz, 13,
 14, FizzBuzz, 16"
 
 
-run in the project file:
-
-iex -S mix 
-iex(1)> Fizzbuzz.run(7, 9)
+run in the project file 'iex -S mix' followed by 'Fizzbuzz.run(7, 9)'
 
 output:
 Buzz
