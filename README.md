@@ -1,6 +1,6 @@
 # Fizzbuzz
 
-**TODO: Add description**
+an elixir solution for a classic test: http://wiki.c2.com/?FizzBuzzTest
 
 ## Installation
 
